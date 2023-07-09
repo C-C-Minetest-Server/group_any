@@ -6,3 +6,6 @@ This mod registers serveral groups that can be used to include items into the gr
 * `group:node`: All registered nodes.
 * `group:craftitem`: All registered craftitems.
 * `group:tool`: All registered tools.
+
+### License
+This mod is released under the MIT License.
